@@ -36,3 +36,9 @@ The Data Structure are as follows: Each trip is anonymized and includes:
 - Member Year of Birth
 - Member Gender
 
+## Conclusion And Key insight
+ - There are 2 types of users, subscriber who pay monthly they tend to have short trips maybe they only use the services for work, and customer who takes longer trip maybe to try the services.
+ - the use of services hikes between 8 Am and 9 AM and then decrecess and then hikes in 5 pm which mean people use the services mostly from going to work and return home
+ - trip duration consistent through out the week and increase in the weekends
+ - Female customer tends to take longer rides than male customer while if they are subscriber they increase a little bit  
+ - male cycle more than female 
